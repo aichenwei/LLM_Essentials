@@ -9,4 +9,4 @@
 |5    | AI系统工程          | AI集群基础设施 <br/> 分布式学习：DP/DDP/FSDP/deepspeed/megatron-LM <br/>                           |
 |6    | 模型部署            | 推理引擎：TRL/vLLM <br/> 模型压缩：量化、剪枝、蒸馏                           |
 |7    | 多模态              | Clip/ViT/Stable Diffusion                             |
-|8    | 研究热点与未来趋势   | 合成数据<br/>   Agent <br/>  推理模型：gpt-O1/Deepseek-R1      |
+|8    | 研究热点与未来趋势   | 合成数据<br/>   Agent <br/>  推理模型：gpt-O1/Deepseek-R1  <br/> 具身智能    |
